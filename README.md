@@ -13,4 +13,4 @@
 ## Run the Project
   - python task1.py
 
-After the run completes, it will  update two new columns Shortest Result and Longest Result for each keyword.
+After the run completes, it will  update two new columns Shortest Result and Longest Result for each keyword based on Current Day(Sunday/Monday etc).
